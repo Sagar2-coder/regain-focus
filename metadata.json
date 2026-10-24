@@ -1,0 +1,6 @@
+{
+  "name": "Regain",
+  "description": "Combat short-form video addiction with surgical content interception, deep focus pomodoro engine, and multiplayer accountability rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

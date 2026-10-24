@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Regain</string>
+    <string name="accessibility_service_label">Regain Anti-Doomscroll Guard</string>
+    <string name="accessibility_service_description">Detects and intercepts short-form video feeds (Instagram Reels, YouTube Shorts, TikTok) while keeping DMs and search accessible.</string>
+</resources>
